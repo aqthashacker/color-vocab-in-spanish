@@ -1,0 +1,41 @@
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue;
+}
+
+#green{
+    color:green;
+}
+
+#orange{
+    color:orange;
+}
+
+#yellow{
+    color:yellow;
+}
+
+#brown{
+    color:brown;
+}
+
+h2{
+    font-weight: normal;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
